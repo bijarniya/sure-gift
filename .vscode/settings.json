@@ -1,0 +1,11 @@
+{
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true,
+  "editor.fontSize": 14,
+  "window.zoomLevel": 1,
+  "editor.mouseWheelZoom": true,
+  "terminal.integrated.fontSize": 14,
+  "editor.suggestFontSize": 14,
+  "markdown.preview.fontSize": 14
+}

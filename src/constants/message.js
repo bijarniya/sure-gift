@@ -1,0 +1,45 @@
+export const apiMessage = {
+  profileUpdated: 'Profile Updated successfully',
+  passwordUpdated: 'Password updated successfully',
+  loginSuccess: 'Login success',
+  logoutSuccess: 'Logout success',
+  signupAndLogin: 'Signup and login successfully',
+  profileImage: 'Profile image updated sucessfully',
+  contactAdded: 'Contact added successfully',
+  contactUpdated: 'Contact updated successfully',
+  contactDelete: 'Contact deleted successfully',
+  eventDelete: 'Event deleted successfully',
+  eventUpdated: 'Event updated successfully',
+  eventAdded: 'Event added successfully',
+  sendAdded: 'Sent enquiry successfully',
+  merchantApplication: 'Your application submitted successfully'
+};
+
+export const validationMessage = {
+  firstName: 'First name is required',
+  lastName: 'Last name is required',
+  emailInvalid: 'Invalid email address',
+  emailRequired: 'Email is required',
+  passwordRequired: 'Password is required',
+  confirmPassword: 'Confirm password is required',
+  passwordAndConfirm: 'Both password need to be the same',
+  OldPasswordRequired: 'Old password is required',
+  newPasswordRequired: 'New password is required',
+  passwordMin: 'The length of Password must be at least 8 characters',
+  passwordUppercaseAndLowercase:
+    'Passwords must have at least one uppercase and lowercase with non-alphanumeric characters',
+  address: 'Address is required',
+  phoneMin: 'The length of Phone number must be at least 10 digit',
+  phoneNumber: 'Phone number should be number',
+  phoneRequired: 'Phone number is required',
+  termAndCondition: 'Terms & condition is required',
+  title: 'Title is required',
+  startDate: 'Start date is required',
+  description: 'Description is required',
+  repeatType: 'Repeat type is required',
+  name: 'Name is required',
+  subject: 'Subject is required',
+  message: 'Message is required',
+  brandName: 'Brand name is required',
+  contactName: 'Contact name is required'
+};
